@@ -13,7 +13,7 @@ This code is written in Python and is used for building a deep learning model to
 
     The ResNet50 architecture is used as a pre-trained model for feature extraction, and the final layers of ResNet50 are removed.
 
-    Two fully connected layers with 256 and 128 neurons, respectively, are added on top of the ResNet50 architecture, followed by a final softmax layer with 3 neurons for classification.
+    Two fully connected layers with 256 and 128 neurons, respectively, are added on top of the ResNet50 architecture, followed by a final softmax layer with 3       neurons for classification.
 
     The model is compiled with 'categorical_crossentropy' loss function, 'adam' optimizer, and 'accuracy' as the evaluation metric.
 
