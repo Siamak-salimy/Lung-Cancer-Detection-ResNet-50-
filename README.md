@@ -17,7 +17,7 @@ This code is written in Python and is used for building a deep learning model to
 
     The model is compiled with 'categorical_crossentropy' loss function, 'adam' optimizer, and 'accuracy' as the evaluation metric.
 
-    The training and validation loss is plotted using matplotlib. 
+    The training and validation loss is plotted using matplotlib.  
 
     Finally, the confusion matrix and classification report are generated to evaluate the performance of the model.
 
