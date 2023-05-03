@@ -7,7 +7,7 @@ This code is written in Python and is used for building a deep learning model to
 
     The image dataset is defined as "../input/lung-and-colon-cancer-histopathological-images/lung_colon_image_set/lung_image_sets".
 
-    The size of the input image is set to 224 x 224. 
+    The size of the input image is set to 224 x 224.  
 
     The ImageDataGenerator is used to prepare the training and validation dataset. The validation set is split into 20% of the total dataset.
 
