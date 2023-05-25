@@ -1,7 +1,7 @@
 # Lung-Cancer-Detection-ResNet-50 
 This code is written in Python and is used for building a deep learning model to classify lung cancer images using the ResNet50 architecture. Here is the analysis of the code: 
 
-    The first few lines are comments describing the environment, helpful packages, and the directory structure of the input data. 
+    The first few lines are comments describing the environment, helpful packages, and the directory structure of the input data.  
 
     The required packages are imported, such as numpy, pandas, tensorflow, keras, and so on.
 
