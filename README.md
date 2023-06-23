@@ -22,3 +22,4 @@ This code is written in Python and is used for building a deep learning model to
     Finally, the confusion matrix and classification report are generated to evaluate the performance of the model. 
 
 In summary, this code loads an image dataset, uses the ResNet50 architecture to extract features, and adds fully connected layers for classification. The model is trained and evaluated, and the results are presented using the confusion matrix and classification report.   
+ 
